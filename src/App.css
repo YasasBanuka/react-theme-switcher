@@ -1,0 +1,46 @@
+/* Styles for the main application layout */
+
+.App {
+  /* Set flexbox properties for layout */
+  display: flex;
+  padding: 16px;
+  flex-direction: column;
+  min-height: 100vh;  /* Set minimum height for full viewport */
+}
+
+/* Styles for the header section */
+header {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;  /* Center content horizontally */
+  align-items: center;      /* Align content vertically */
+}
+
+/* Styles for the content section */
+.Page {
+  max-width: 1280px;
+  margin: 0 auto;  /* Center the content horizontally */
+}
+
+.App-footer {
+  position: fixed; 
+  bottom: 0; 
+  left: 0; 
+  width: 100%; 
+  text-align: center;
+  font-size: 0.8 rem;
+}
+
+.App-footer a {
+  text-decoration: none; /* Remove underline */
+  color: #0077b5; /* Blue color (optional) */
+}
+
+.App-footer a:hover {
+  color: #3399ff; /* Change color on hover (optional) */
+}
+
+.footer-caption {
+  font-style: italic; 
+}
