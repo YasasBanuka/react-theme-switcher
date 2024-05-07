@@ -44,3 +44,6 @@ https://www.coursera.org/learn/advanced-react/
 Feel free to fork this repository and contribute your own enhancements or bug fixes. We welcome community engagement to further refine this project.
 
 **Happy Coding!**
+
+!["theme_switcher_design.png"](images/image2.png)
+!["code.png"](images/image1.png)
