@@ -24,17 +24,17 @@ React Context
 
 1. **Clone or Download the Repository:** Access this project's code through your preferred method (e.g., Git clone or download).
 2. **Install Dependencies:** Open your terminal or command prompt and navigate to the project's root directory. Run the `npm install` or `yarn install` command to install the necessary dependencies
-3. **Run the Application:** Start the development server using npm start or yarn start.
-The application will be accessible at http://localhost:3000 by default.4
+3. **Run the Application:** Start the development server using `npm start` or `yarn start`
+The application will be accessible at http://localhost:3000 by default.
 
 **Enjoy!**
 
 **Further Enhancements (Optional):**
 
-Implement theme persistence to store user preference across sessions (e.g., local storage, cookies).
-Add more theme options beyond light and dark.
-Explore integrating with a CSS preprocessor (e.g., SASS, LESS) for more organized styling.
-Enhance accessibility features for the switch component.
+1. Implement theme persistence to store user preference across sessions (e.g., local storage, cookies).
+2. Add more theme options beyond light and dark.
+3. Explore integrating with a CSS preprocessor (e.g., SASS, LESS) for more organized styling.
+4. Enhance accessibility features for the switch component.
 
 **Course Reference:**
 
