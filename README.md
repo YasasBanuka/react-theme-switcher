@@ -18,7 +18,6 @@ Includes detailed comments throughout the code for better understanding.
 **Technologies Used:**
 
 React
-React Context
 
 **Instructions:**
 
